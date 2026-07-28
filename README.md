@@ -3,7 +3,7 @@
 ## Aluno
 
 Nome: Nicolas
-Turma; DS1B
+Turma: DS1B
 Professor: Vitor
 
 ---
